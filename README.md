@@ -2,8 +2,10 @@
 
 This extension allows users to send issues from Burp's Scanner directly into their Dradis project using the HTTP API.
 
-The add-on requires [Dradis CE](https://dradisframework.org/) > 3.0, or [Dradis Pro](https://dradisframework.com/pro/).
+The add-on requires [Dradis CE](https://dradis.com/ce/) > 3.0, or [Dradis Pro](https://dradis.com/).
 
+**Note: when making any changes to this repository, also submit a PR to the
+official clone https://github.com/PortSwigger/dradis-framework**
 
 ## Dependencies
 
@@ -30,7 +32,7 @@ Extender > Extensions > Add:
 
 ## Contributing
 
-Please see CONTRIBUTING.md for details.
+Please see [CONTRIBUTING.md](https://github.com/dradis/dradis-ce/blob/develop/CONTRIBUTING.md) for details.
 
 List of [contributors](https://github.com/dradis/burp-dradis/graphs/contributors).
 
