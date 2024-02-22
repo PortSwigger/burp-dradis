@@ -3,9 +3,11 @@ ExtensionType: 3
 Name: Dradis Framework
 RepoName: dradis-framework
 ScreenVersion: 0.0.4
-SerialVersion: 4
+SerialVersion: 5
 MinPlatformVersion: 0
 ProOnly: True
 Author: Dradis Core team
 ShortDescription: Send Scanner issues to Dradis collaboration and reporting framework.
 EntryPoint: burp-dradis.rb
+BuildCommand: 
+SupportedProducts: 
