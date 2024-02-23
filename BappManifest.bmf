@@ -10,4 +10,4 @@ Author: Dradis Core team
 ShortDescription: Send Scanner issues to Dradis collaboration and reporting framework.
 EntryPoint: burp-dradis.rb
 BuildCommand: 
-SupportedProducts: 
+SupportedProducts: Pro
